@@ -1,1 +1,1 @@
-# Touch-Typing
+# Documentation of Touch-Typing Progress
